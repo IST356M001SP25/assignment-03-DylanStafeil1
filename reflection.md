@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use Streamlit to write web pages in python. Streamlit is a way to build data web apps in python. There was a few things I was unsure of, and I had to use the solutions a few times for help (the stringIO line and the st.info and st.success lines), but for the most part, I was able to complete this myself.
