@@ -18,7 +18,7 @@ def process_file(text):
         total = packaging.calc_total_units(pkg)
         unit = packaging.get_unit(pkg)
         packages.append(pkg)
-        st.info(f"{line} ➡️ Total 🟰 Size: {total} {unit}")
+        st.info(f"{line} ➡️ Total 🟰 {total} {unit}")
     return packages
 
 st.title("Process File")

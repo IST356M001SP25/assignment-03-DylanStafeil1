@@ -20,6 +20,6 @@ if btn_process:
     package_info = parse_packaging(package_data)
     total_size = calc_total_units(package_info)
     
-    st.write('Package Info:')
-    st.write(package_info)
-    st.write(f'Total Package Size: {total_size}')
+    st.info('Package Info:')
+    st.info(package_info)
+    st.info(f'Total Package Size: {total_size}')
