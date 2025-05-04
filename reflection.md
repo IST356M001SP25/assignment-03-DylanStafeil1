@@ -23,4 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
-I learned how to use Streamlit to write web pages in python. Streamlit is a way to build data web apps in python. There was a few things I was unsure of, and I had to use the solutions a few times for help (the stringIO line and the st.info and st.success lines), but for the most part, I was able to complete this myself.
+This assignment helped me practice building interactive applications with Streamlit while reinforcing the importance of modular code by reusing the packaging logic from the previous assignment. I learned how to handle user input, file uploads, and session state in a web interface, which made the programs feel more dynamic and user-friendly. It was also useful to track progress across multiple files and outputs, giving me a better understanding of how to manage stateful applications.
